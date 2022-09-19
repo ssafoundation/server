@@ -1,0 +1,221 @@
+{
+  "users": [
+    {
+      "email": "test@gmmail.com",
+      "password": "$2a$10$qxDE7dY/NaYope4sEdcHG.VXThBNQmxEbhYah/AZsTzuK5FaS7L/O",
+      "name": "test",
+      "id": 1
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "$2a$10$yTmNOfo4SMnllfUanDJmqOk9pv7Yn4PDu8ZMtZrWFyz7OuoQgUZpm",
+      "name": "test2",
+      "id": 2
+    },
+    {
+      "email": "a@gmail.com",
+      "password": "$2a$10$YCxEhhYp/gY3a5GhbYbjNu8gQ8oAKVdY6D7y90TWv3KD0EQiNL0Py",
+      "name": "a",
+      "id": 3
+    }
+  ],
+  "conversations": [
+    {
+      "participants": "test2@gmail.com-a@gmail.com",
+      "users": [
+        {
+          "email": "test2@gmail.com",
+          "name": "test2",
+          "id": 2
+        },
+        {
+          "email": "a@gmail.com",
+          "name": "a",
+          "id": 3
+        }
+      ],
+      "message": "jhvsdytgf",
+      "timestamp": 1663591282164,
+      "id": 1
+    }
+  ],
+  "messages": [
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "a@gmail.com",
+        "name": "a",
+        "id": 3
+      },
+      "receiver": {
+        "email": "test2@gmail.com",
+        "password": "$2a$10$yTmNOfo4SMnllfUanDJmqOk9pv7Yn4PDu8ZMtZrWFyz7OuoQgUZpm",
+        "name": "test2",
+        "id": 2
+      },
+      "message": "hello\n",
+      "timestamp": 1663590505409,
+      "id": 1
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "test2@gmail.com",
+        "name": "test2",
+        "id": 2
+      },
+      "receiver": {
+        "email": "a@gmail.com",
+        "name": "a",
+        "id": 3
+      },
+      "message": "ki koren",
+      "timestamp": 1663590521523,
+      "id": 2
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "test2@gmail.com",
+        "name": "test2",
+        "id": 2
+      },
+      "receiver": {
+        "email": "a@gmail.com",
+        "name": "a",
+        "id": 3
+      },
+      "message": "hello",
+      "timestamp": 1663590556461,
+      "id": 3
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "a@gmail.com",
+        "name": "a",
+        "id": 3
+      },
+      "receiver": {
+        "email": "test2@gmail.com",
+        "name": "test2",
+        "id": 2
+      },
+      "message": "oi",
+      "timestamp": 1663590562663,
+      "id": 4
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "test2@gmail.com",
+        "name": "test2",
+        "id": 2
+      },
+      "receiver": {
+        "email": "a@gmail.com",
+        "name": "a",
+        "id": 3
+      },
+      "message": "hi",
+      "timestamp": 1663590770346,
+      "id": 5
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "a@gmail.com",
+        "name": "a",
+        "id": 3
+      },
+      "receiver": {
+        "email": "test2@gmail.com",
+        "name": "test2",
+        "id": 2
+      },
+      "message": "kk",
+      "timestamp": 1663591084851,
+      "id": 6
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "test2@gmail.com",
+        "name": "test2",
+        "id": 2
+      },
+      "receiver": {
+        "email": "a@gmail.com",
+        "name": "a",
+        "id": 3
+      },
+      "message": "ff",
+      "timestamp": 1663591092041,
+      "id": 7
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "a@gmail.com",
+        "name": "a",
+        "id": 3
+      },
+      "receiver": {
+        "email": "test2@gmail.com",
+        "name": "test2",
+        "id": 2
+      },
+      "message": "kkkkkk",
+      "timestamp": 1663591125658,
+      "id": 8
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "test2@gmail.com",
+        "name": "test2",
+        "id": 2
+      },
+      "receiver": {
+        "email": "a@gmail.com",
+        "name": "a",
+        "id": 3
+      },
+      "message": "gggggg",
+      "timestamp": 1663591131294,
+      "id": 9
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "a@gmail.com",
+        "name": "a",
+        "id": 3
+      },
+      "receiver": {
+        "email": "test2@gmail.com",
+        "name": "test2",
+        "id": 2
+      },
+      "message": "jjj",
+      "timestamp": 1663591276647,
+      "id": 10
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "test2@gmail.com",
+        "name": "test2",
+        "id": 2
+      },
+      "receiver": {
+        "email": "a@gmail.com",
+        "name": "a",
+        "id": 3
+      },
+      "message": "jhvsdytgf",
+      "timestamp": 1663591282164,
+      "id": 11
+    }
+  ]
+}
